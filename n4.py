@@ -5,5 +5,5 @@ int_length = int(str_length)
 int_width = int(str_width)
 int_cost = int(cost)
 int_area = int_length * int_width
-print("total area", + int_area)
-print("total cost", + (int_area + int_cost))
+print("total area: ", + int_area)
+print("total cost: $", +int_area + int_cost), 
